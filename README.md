@@ -1,7 +1,7 @@
 # docker-ffmpeg
 
 [![Latest Github release](https://img.shields.io/github/release/rugarci/docker-ffmpeg.svg)](https://github.com/rugarci/docker-ffmpeg/releases/latest)
-[![Image size](https://img.shields.io/docker/image-size/rugarci/ffmpeg/latest)](https://hub.docker.com/r/rugarci/ffmpeg)
+[![Image size](https://img.shields.io/docker/image-size/rugarci/ffmpeg)](https://hub.docker.com/r/rugarci/ffmpeg)
 [![Docker Pulls](https://img.shields.io/docker/pulls/rugarci/ffmpeg.svg)](https://hub.docker.com/r/rugarci/ffmpeg/)
 
 Alpine image with ffmpeg and bash
